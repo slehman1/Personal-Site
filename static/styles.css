@@ -5,6 +5,7 @@ font-family: Urbanist, sans-serif;
 text-align: center;
 }
 
+
 a:hover {
 color: gray;
 }
@@ -29,7 +30,7 @@ display: flex;
 .navbar--link {
 text-decoration: none;
 color: white;
-margin: 2% 1%;
+margin: 2% 3%;
 }
 
 .navbar--img {
@@ -72,4 +73,12 @@ color: black;
 
 .project--div {
 padding: 2%;
+}
+
+.project--hr {
+width: 15%;
+border-style: dotted none none;
+border-width: 10px;
+border-color: gray;
+
 }
