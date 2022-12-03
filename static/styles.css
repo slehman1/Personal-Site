@@ -38,8 +38,8 @@ width: 40px;
 border-radius: 50%;
 }
 
-.projects--list {
-list-style-type: none;
+.projects--title {
+padding-bottom: 2%;
 }
 
 .me_img {
